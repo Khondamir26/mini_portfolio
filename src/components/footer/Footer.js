@@ -18,7 +18,7 @@ const Footer = () => {
 							</a>
 						</li>
 						<li className="social__item">
-							<a href="https://www.instagram.com/khoondaa/">
+							<a href="https://instagram.com/khoondaa?igshid=MjEwN2IyYWYwYw==">
 								<img src={instagram} alt="Link" />
 							</a>
 						</li>
