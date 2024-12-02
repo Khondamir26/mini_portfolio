@@ -34,7 +34,7 @@ const Footer = () => {
 						</li>
 						<li className="social__item">
 							<a href="#!">
-								<img src={linkedIn} alt="Link" />
+								<img src= https://www.linkedin.com/in/khondamir-tuychiev-931112322 alt="Link" />
 							</a>
 						</li>
 					</ul>
